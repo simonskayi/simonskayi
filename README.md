@@ -6,7 +6,7 @@
 
 # Note Down Application
 ### Technolgies : Room Database, Android SDK , Kotlin, Xml
-This is a simple notes application where users can note down points at a workshop, meetings, when attending special program...etc , notes are saved using android room database.Users can view , edit and delete the notes from the list.
+This is a  note taking application where users can note down points at a workshop, meetings, at a special program...etc. Notes are saved using android room database. Users can view , edit and delete the notes from the list.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
         <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
