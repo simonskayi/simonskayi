@@ -21,6 +21,27 @@ This App makes you stay up to date with the latest international news and breaki
    <img src="https://user-images.githubusercontent.com/70524242/172495902-a918e4f6-ca33-4833-b907-3e685863be0e.png" width="200">
 </p>
 
+
+
+## Best Regards!
+  
+
+   LICENCE
+-----
+
+ Copyright 2020 Simons Arhin
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 <!--
 **simonskayi/simonskayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
