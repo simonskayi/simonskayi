@@ -38,7 +38,7 @@ This App makes you stay up to date with the latest international news and breaki
 
 # My Calculator
 ### Technolgies :  Android SDK , Kotlin, Xml
-This is a simple yet, powerful calculator for day to day calculation. A user-friendly app for grade school and small business owners(shopkeepers) for running thier business. (find the apps source code from my git repository below)
+This is a simple, yet a powerful calculator for day to day calculation. A user-friendly app for grade school and small business owners(shopkeepers) for running thier business. (find the apps source code from my git repository below)
 <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
 </p>
