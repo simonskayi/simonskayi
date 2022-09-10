@@ -1,12 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
-### Hello, I'm a mobile App developer, a Native Android Developer, with like 3 year of experience building Android apps for mobile devices. I am ever ready to learn new technologies, methods, and principle as per the project requirements
+### Hello, I'm a mobile App developer, a Native Android Developer, with about 3 years of experience building Android apps for mobile devices. I am ever ready to learn new technologies, methods, and principle as per the project requirements
 
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 # Note Down Application
-### Technolgies : Room Database, Android SDK , Kotlin, Xml
+### Technolgies : Room Database, Android SDK, Kotlin, Xml
 This is a  note taking application where users can note down points at a workshop, meetings, at a special program...etc. Notes are saved using android room database. Users can view , edit and delete the notes from the list. (find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
@@ -14,7 +14,7 @@ This is a  note taking application where users can note down points at a worksho
 </p>
 
 # All News Aplication
-### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, REST API
+### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library
 This App makes you stay up to date with the latest international news and breaking news. Users can click to save any news article for later viewing and delete article when its no longer needed.To search for a paticular news  article, enter a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
 
 <p align="center">
