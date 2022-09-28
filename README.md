@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
-### Hello, I'm a mobile App developer, a Native Android Developer, with about 3 years of experience building Android apps for mobile devices. I am ever ready to learn new technologies, methods, and principle as per the project requirements
+### Hello, I'm a mobile App developer, a Native Android Developer, with about 3 years of experience building Android apps for mobile devices. I am ever ready to learn new technologies, methods, and principle as per the project requirements. Below are some of my projects.
 
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
