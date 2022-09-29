@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
-### A Native Android Developer, with about 3 years of experience building Android apps for mobile devices. I love learning new technologies, methods, and principle as per the project requirements. Below are some of my projects.
+### A Native Android Developer, with 3 years of experience building Android apps for mobile devices. I love learning new technologies, methods, and principle as per the project requirements. Below are some of my projects.
 
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 # Note Down Application
 ### Technolgies : Room Database, Android SDK, Kotlin, Xml
-This is a note taking application where users can note down points at a workshop, meetings or at any special program...etc. Notes are saved using the android room database. Users can perform all CRUD operations when using the application. (find the apps source code from my git repository below)
+This is a note taking application, designed to  note down points at a workshop, meetings or at any special program...etc. Notes are saved using the android room database. Users can perform all CRUD operations when using the application. (find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
         <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
@@ -15,7 +15,7 @@ This is a note taking application where users can note down points at a workshop
 
 # All News Aplication
 ### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
-This App makes you stay up to date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed.  A paticular news  article can be searched by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
+This Application is designed to make you stay up-to-date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed. Search for any news article by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/70524242/172570638-0ebc1903-fdbc-46d2-87fb-8a05789d4d8b.png" width="200">
