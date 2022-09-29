@@ -25,7 +25,7 @@ This Application is designed to make you stay up-to-date with the latest interna
   
   # Roboust App
   ### Technolgies : Android SDK , Kotlin, Xml, Firebase User Authentication, MVVM Architecture
- This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile .This application will make it easier to find and hire a certified electrical engineer for your job . This app is only available to users in Ghana.
+ This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineer for your job. This app is only available to users in Ghana.
  My first contribution was to work on registering and authenticating users. (find the apps source code from my git repository below)
  
  <p align="center">
@@ -37,7 +37,7 @@ This Application is designed to make you stay up-to-date with the latest interna
 
 # My Calculator
 ### Technolgies :  Android SDK , Kotlin, Xml
-This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business.This is one of my school project; it earned me a lot of marks. (find the apps source code from my git repository below)
+This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business. This is one of my school projects; it earned me a lot of marks. (find the apps source code from my git repository below)
 <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
 </p>
