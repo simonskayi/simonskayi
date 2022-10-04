@@ -14,7 +14,7 @@ This is a note taking application, designed to  note down points at a workshop, 
 
 # All News Aplication
 ### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
-This Application is designed to make you stay up-to-date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed. Search for any news article by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
+This Application is designed to make you stay up-to-date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed. Search for any news content by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/70524242/193815043-77ee4187-7b5a-40a3-9f7d-51a3af94910a.png" width="200">
