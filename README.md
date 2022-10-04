@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
-### A native Android developer, willing to work with a strong software development team to build my professional experience and further develop my skills in programming and writing code whiles adding value to the team. Please browse some of my projects below.
+### A Junior Software developer, willing to work with a strong software development team to build my professional experience and further develop my skills in programming and writing code whiles adding value to the team. Please browse some of my projects below.
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
@@ -17,16 +17,18 @@ This is a note taking application, designed to  note down points at a workshop, 
 This Application is designed to make you stay up-to-date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed. Search for any news article by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
 
 <p align="center">
-        <img src="https://user-images.githubusercontent.com/70524242/172570638-0ebc1903-fdbc-46d2-87fb-8a05789d4d8b.png" width="200">
-   <img src="https://user-images.githubusercontent.com/70524242/172570657-a656b227-c767-4fb9-8c6d-f402481d4088.png" width="200">
-   <img src="https://user-images.githubusercontent.com/70524242/172570676-6f2d94a7-01b6-4b5c-b6b6-44f2a23b9f70.png" width="200">
+        <img src="https://user-images.githubusercontent.com/70524242/193815043-77ee4187-7b5a-40a3-9f7d-51a3af94910a.png" width="200">
+   <img src="https://user-images.githubusercontent.com/70524242/193815986-a901e4d0-93f9-401e-9f84-87e74f2aa460.png" width="200">
+   <img src="https://user-images.githubusercontent.com/70524242/193815118-d9fbde8e-48ec-4427-b362-de61069d410a.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/193815167-4d2a19a5-bdaa-434e-a41a-32b97f1522cc.png" width ="200">
+   <img src="https://user-images.githubusercontent.com/70524242/193815206-d536dc73-5389-4ca7-baf0-a2e3938cdc2d.png" width ="200">
 </p>
 
   
   # Roboust App
   ### Technolgies : Android SDK , Kotlin, Xml, Firebase User Authentication, MVVM Architecture
- This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineer for your job. This app is only available to users in Ghana.
- My first contribution was to work on registering and authenticating users. (find the apps source code from my git repository below)
+ This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. This app is only available to users in Ghana.
+ My contribution is on registering and authenticating users. (find the apps source code from my git repository below)
  
  <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172564905-77ae8ca0-6de9-448a-bf56-8ce28587babc.png" width="200">
@@ -43,7 +45,8 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
-  
+
+
 
    LICENCE
 -----
