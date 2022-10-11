@@ -26,14 +26,14 @@ This Application is designed to make you stay up-to-date with the latest interna
 
   
   # Roboust App
-  ### Technolgies : Android SDK , Kotlin, Xml, Firebase User Authentication, MVVM Architecture
+  ### Technolgies : Kotlin, XML:, Firebase Authentication, MVVM Architecture
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. This app is only available to users in Ghana.
  My contribution is on registering and authenticating users. (find the apps source code from my git repository below)
  
  <p align="center">
-     <img src="https://user-images.githubusercontent.com/70524242/172564905-77ae8ca0-6de9-448a-bf56-8ce28587babc.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70524242/172564927-bfdff704-80fb-4574-a64d-8860c4936759.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70524242/172564947-d4a9ba2f-fe5a-433b-8d54-8a6cd34fa4eb.png" width="200">
+     <img src="https://user-images.githubusercontent.com/70524242/195175709-75c135b4-c853-4f5c-8594-d8fad302f8af.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/195175756-ebd1991b-a4ed-4173-a7e6-414be436a7e1.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/195175779-dcd568f6-5cee-427b-a5fe-36cb73886b2a.png" width="200">
 </p>
 
 
@@ -45,6 +45,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
+
 
 
 
