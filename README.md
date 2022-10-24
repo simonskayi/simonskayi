@@ -26,9 +26,9 @@ This Application is designed to make you stay up-to-date with the latest interna
 
   
   # Roboust App
-  ### Technolgies : Kotlin, XML:, Firebase Authentication, MVVM Architecture
+  ### Technolgies : Kotlin,Firebase Authentication, MVVM , XML
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. This app is only available to users in Ghana.
- I have been working on registering and authenticating users. (find the apps source code from my git repository below)
+ I have been working on registering and authenticating users using Firebase as a backend. (find the apps source code from my git repository below)
  
  <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/195175709-75c135b4-c853-4f5c-8594-d8fad302f8af.png" width="200">
