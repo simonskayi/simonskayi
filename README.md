@@ -4,13 +4,14 @@
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-# Note Down Application
-### Technolgies : Room Database, Android SDK, Kotlin, Xml
-This is a note taking application, designed to  note down points at a workshop, meetings or at any special program...etc. Notes are saved using the android room database. Users can perform all CRUD operations when using the application. (find the apps source code from my git repository below)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
-        <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
-</p>
+# BeQuotes
+ ### Technolgies : Kotlin, Firebase Realtime Database, XML
+ A Quotes Application built to demonstrate the use of Firebase realtime Database in Android. Read and share quotes by famous people with friends. BeQuote has quotes of encouragement, positive life lesson with inspiring words and wise sayings. The quotes are carefully selected to inspire you and your friends/family. (find the apps source code from my git repository below) 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/70524242/199437588-a6b591bb-cf25-495e-a8fb-fded2e28c80d.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/199437785-d62b88ac-81c4-42c2-be33-3b9c7f11d202.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/199437879-053601f5-f307-4e8e-a1e6-759b3d501ac5.png" width="200">
+  </p>
 
 # All News Aplication
 ### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
@@ -24,6 +25,13 @@ This Application is designed to make you stay up-to-date with the latest interna
    <img src="https://user-images.githubusercontent.com/70524242/193815206-d536dc73-5389-4ca7-baf0-a2e3938cdc2d.png" width ="200">
 </p>
 
+# Note Down Application
+### Technolgies : Room Database, Android SDK, Kotlin, Xml
+This is a note taking application, designed to  note down points at a workshop, meetings or at any special program...etc. Notes are saved using the android room database. Users can perform all CRUD operations when using the application. (find the apps source code from my git repository below)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
+        <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
+</p>
   
   # Roboust App
   ### Technolgies : Kotlin,Firebase Authentication, MVVM , XML
