@@ -31,6 +31,7 @@ This is a note taking application, designed to  note down points at a workshop, 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
         <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
+        <img src="https://user-images.githubusercontent.com/70524242/203717563-9d0aa807-dec8-4f5b-ade7-d8b112837000.png" width="200">
 </p>
   
   # Roboust App
@@ -53,6 +54,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
+
 
 
 
