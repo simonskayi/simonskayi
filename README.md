@@ -37,12 +37,15 @@ This is a note taking application, designed to  note down points at a workshop, 
   # Roboust App
   ### Technolgies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. Target users-Ghana.
-Current Stage; Registering and Authenticating users using Firebase as a backend. (find the apps source code from my git repository below)
+Worked on Registering and Authenticating users using Firebase as a backend. (find the apps source code from my git repository below)
  
  <p align="center">
+ <img src="https://user-images.githubusercontent.com/70524242/205431687-27c31d30-4262-423a-8ea5-a68f086f5597.png" width="200">
      <img src="https://user-images.githubusercontent.com/70524242/195175709-75c135b4-c853-4f5c-8594-d8fad302f8af.png" width="200">
   <img src="https://user-images.githubusercontent.com/70524242/195175756-ebd1991b-a4ed-4173-a7e6-414be436a7e1.png" width="200">
   <img src="https://user-images.githubusercontent.com/70524242/195175779-dcd568f6-5cee-427b-a5fe-36cb73886b2a.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/205431692-965b4ed1-eb1d-4c40-b25d-593fb364dee1.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/205431701-c8ed58c1-312e-4039-bc4a-037ad2aa4a8b.png" width="200"
 </p>
 
 
@@ -54,9 +57,6 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
-
-
-
 
 
    LICENCE
