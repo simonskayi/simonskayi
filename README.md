@@ -20,9 +20,8 @@ This Application is designed to make you stay up-to-date with the latest interna
 <p align="center">
         <img src="https://user-images.githubusercontent.com/70524242/193815043-77ee4187-7b5a-40a3-9f7d-51a3af94910a.png" width="200">
    <img src="https://user-images.githubusercontent.com/70524242/193815986-a901e4d0-93f9-401e-9f84-87e74f2aa460.png" width="200">
-   <img src="https://user-images.githubusercontent.com/70524242/193815118-d9fbde8e-48ec-4427-b362-de61069d410a.png" width="200">
+    <img src="https://user-images.githubusercontent.com/70524242/193815206-d536dc73-5389-4ca7-baf0-a2e3938cdc2d.png" width ="200">
   <img src="https://user-images.githubusercontent.com/70524242/193815167-4d2a19a5-bdaa-434e-a41a-32b97f1522cc.png" width ="200">
-   <img src="https://user-images.githubusercontent.com/70524242/193815206-d536dc73-5389-4ca7-baf0-a2e3938cdc2d.png" width ="200">
 </p>
 
 # Note Down Application
@@ -48,6 +47,14 @@ Worked on Registering and Authenticating users using Firebase as a backend. (fin
   <img src="https://user-images.githubusercontent.com/70524242/205431701-c8ed58c1-312e-4039-bc4a-037ad2aa4a8b.png" width="200"
 </p>
 
+ # QR Scan
+ ### Technolgies : Kotlin, Android Studio, Xml
+ A Functional QR Scanner and Barcode reader that requires little storage space. Scan all common barcode to get additional information including results from popular online services; Amazon, ebay and Google for FREE! Flashlight for reliable Scan in dark environments. Enjoy one of the best QR Scan Code reader apps available for smartphones and tablets running Android.
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/70524242/210081499-6d3f8839-824e-439f-9c00-efc8501e4d34.png" width="200">
+   <img src="https://user-images.githubusercontent.com/70524242/210081538-add9d83e-078b-488e-99d2-3433b34cf9f3.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/210085880-28e71b5b-d2a5-4e26-a29c-83091c994bd3.png" width="200">
+ </p>
 
 # My Calculator
 ### Technolgies :  Android SDK , Kotlin, Xml
@@ -57,7 +64,6 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
-
 
    LICENCE
 -----
