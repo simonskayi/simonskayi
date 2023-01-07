@@ -51,9 +51,9 @@ Worked on Registering and Authenticating users using Firebase as a backend. (fin
  ### Technolgies : Kotlin, Android Studio, Xml
  A Functional QR Scanner and Barcode reader that requires little storage space. Scan all common barcode to get additional information including results from popular online services; Amazon, ebay and Google for FREE! Flashlight for reliable Scan in dark environments. Enjoy one of the best QR Scan Code reader apps available for smartphones and tablets running Android.
  <p align="center">
- <img src="https://user-images.githubusercontent.com/70524242/210081499-6d3f8839-824e-439f-9c00-efc8501e4d34.png" width="200">
-   <img src="https://user-images.githubusercontent.com/70524242/210081538-add9d83e-078b-488e-99d2-3433b34cf9f3.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70524242/210085880-28e71b5b-d2a5-4e26-a29c-83091c994bd3.png" width="200">
+ <img src="https://user-images.githubusercontent.com/70524242/211151906-7593668d-33f7-403e-bd72-7c3434c4cddf.png" width="200">
+   <img src="https://user-images.githubusercontent.com/70524242/211151920-e99847dd-de69-4f23-b7d8-239204b15e86.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70524242/211151943-91ee2285-9529-459f-be9d-5417a4bc3b19.png" width="200">
  </p>
 
 # My Calculator
@@ -64,6 +64,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
+
 
    LICENCE
 -----
