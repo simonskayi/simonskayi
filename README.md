@@ -7,7 +7,7 @@
 
 
 # BeQuotes
- ### Technolgies : Kotlin, Firebase Realtime Database, XML
+ ### Technologies : Kotlin, Firebase Realtime Database, XML
  A Quotes Application built to demonstrate the use of Firebase realtime Database in Android. Read and share quotes by famous people with friends. BeQuote has quotes of encouragement, positive life lesson with inspiring words and wise sayings. The quotes are carefully selected to inspire you and your friends/family. (find the apps source code from my git repository below) 
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/199437588-a6b591bb-cf25-495e-a8fb-fded2e28c80d.png" width="200">
@@ -16,7 +16,7 @@
   </p>
 
 # All News Aplication
-### Technolgies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
+### Technologies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
 This Application is designed to make you stay up-to-date with the latest international and breaking news. News articles can be saved for later viewing and delete when its no longer needed. Search for any news content by just entering a keyword in the search bar, that's all! You are good to go. (find the apps source code from my git repository below)
 
 <p align="center">
@@ -27,7 +27,7 @@ This Application is designed to make you stay up-to-date with the latest interna
 </p>
 
 # Note Down Application
-### Technolgies : Room Database, Android SDK, Kotlin, Xml
+### Technologies : Room Database, Android SDK, Kotlin, Xml
 This is a note taking application, designed to  note down points at a workshop, meetings or at any special program...etc. Notes are saved using the android room database. Users can perform all CRUD operations when using the application. (find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
@@ -36,7 +36,7 @@ This is a note taking application, designed to  note down points at a workshop, 
 </p>
   
   # Roboust App
-  ### Technolgies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
+  ### Technologies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. Target users-Ghana.
 Worked on Registering and Authenticating users using Firebase as a backend. (find the apps source code from my git repository below)
  
@@ -50,7 +50,7 @@ Worked on Registering and Authenticating users using Firebase as a backend. (fin
 </p>
 
  # QR Scan
- ### Technolgies : Kotlin, Android Studio, Xml
+ ### Technologies : Kotlin, Android Studio, Xml
  A Functional QR Scanner and Barcode reader that requires little storage space. Scan all common barcode to get additional information including results from popular online services; Amazon, ebay and Google for FREE! Flashlight for reliable Scan in dark environments. Enjoy one of the best QR Scan Code reader apps available for smartphones and tablets running Android.
  <p align="center">
  <img src="https://user-images.githubusercontent.com/70524242/211151906-7593668d-33f7-403e-bd72-7c3434c4cddf.png" width="200">
