@@ -73,7 +73,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
    LICENCE
 -----
 
- Copyright 2020 Simons Arhin
+ Copyright 2024 Simons Arhin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
