@@ -77,13 +77,10 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
-![Screenshot_2024-01-09-08-22-39](https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1)
-![Screenshot_2024-01-08-20-56-42](https://github.com/simonskayi/simonskayi/assets/70524242/d68c02d0-8974-4f23-ac94-4265c9362029)
 
-![Screenshot_2024-01-09-08-22-27](https://github.com/simonskayi/simonskayi/assets/70524242/4f3299cd-84de-4519-a2e9-63ab73a5662f)
 
    LICENCE
------
+-----------------------------------
 
  Copyright 2024 Simons Arhin
 
