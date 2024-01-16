@@ -36,6 +36,15 @@ Capture moments seamlessly with our Note Taking App – perfect for workshops, m
         <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
         <img src="https://user-images.githubusercontent.com/70524242/203717563-9d0aa807-dec8-4f5b-ade7-d8b112837000.png" width="200">
 </p>
+
+# Cripper 
+### Technologies : Retrofit, OkHttp, Android SDK, Kotlin, Jepack Compose, Dagger-Hilt, JSON
+Capture moments seamlessly with our Note Taking App – perfect for workshops, meetings, and special programs. Utilizing the Android Room Database, effortlessly save and organize your notes. Perform all essential operations - create, read, update, and delete with ease. Streamline your note-taking experience and stay organized effortlessly! (find the apps source code from my git repository below)
+<p align="center">
+  <img src="https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1" width="200">
+        <img src="https://github.com/simonskayi/simonskayi/assets/70524242/d68c02d0-8974-4f23-ac94-4265c9362029.png" width="200">
+        <img src="https://github.com/simonskayi/simonskayi/assets/70524242/4f3299cd-84de-4519-a2e9-63ab73a5662f.png" width="200">
+</p>
   
   # Roboust App
   ### Technologies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
@@ -68,7 +77,10 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
 </p>
 
 ## Best Regards!
+![Screenshot_2024-01-09-08-22-39](https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1)
+![Screenshot_2024-01-08-20-56-42](https://github.com/simonskayi/simonskayi/assets/70524242/d68c02d0-8974-4f23-ac94-4265c9362029)
 
+![Screenshot_2024-01-09-08-22-27](https://github.com/simonskayi/simonskayi/assets/70524242/4f3299cd-84de-4519-a2e9-63ab73a5662f)
 
    LICENCE
 -----
