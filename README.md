@@ -1,7 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
 
-### Highly motivated software developer with dedication to Android development. Possess strong understanding of core Android concepts and experience building native Android applications using Kotlin. Eager to expand my knowledge and contribute to a collaborative team dedicated to delivering exceptional user experience.
+Highly motivated software developer with dedication to Android development. 
+Possess strong understanding of core Android concepts and experience building native Android applications using Kotlin. 
+Eager to expand my knowledge and contribute to a collaborative team dedicated to delivering exceptional user experience.
 
 #### Below, you'll find some of the projects I've completed that showcase my skills and general background in software development.
 
