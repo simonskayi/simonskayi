@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # Welcome👋, I'm Simons Arhin
 
-Highly motivated software developer with dedication to Android development. 
+Highly motivated software developer with dedication to Android development.
 Possess strong understanding of core Android concepts and experience building native Android applications using Kotlin. 
 Eager to expand my knowledge and contribute to a collaborative team dedicated to delivering exceptional user experience.
 
@@ -20,7 +20,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
   </p>
 
 # All News Aplication
-### Technologies : MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
+### Technologies: MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
 Stay ahead of the curve with our cutting-edge News Application, meticulously crafted to keep you abreast of the latest international and breaking news. Seamlessly navigate through news articles, allowing you to save pertinent information for future reference and easily manage your content by deleting what's no longer needed. Experience the power of quick and efficient news retrieval with our intuitive search feature – simply enter a keyword in the search bar, and you're ready to dive into a world of information. Empower yourself with the convenience of staying informed, effortlessly delivered at your fingertips. (find the apps source code from my git repository below)
 
 <p align="center">
