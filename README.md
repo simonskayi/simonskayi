@@ -21,7 +21,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
 
 # All News Aplication
 ### Technologies: MVVM, Room Database, Android SDK , Kotlin, Xml, Jetpack libraries, Retrofit Library, Paging
-Stay ahead of the curve with our cutting-edge News Application, meticulously crafted to keep you abreast of the latest international and breaking news. Seamlessly navigate through news articles, allowing you to save pertinent information for future reference and easily manage your content by deleting what's no longer needed. Experience the power of quick and efficient news retrieval with our intuitive search feature – simply enter a keyword in the search bar, and you're ready to dive into a world of information. Empower yourself with the convenience of staying informed, effortlessly delivered at your fingertips. (find the apps source code from my git repository below)
+Stay ahead of the curve with our cutting-edge News Application, meticulously crafted to keep you abreast of the latest international and breaking news. Seamlessly navigate through news articles, allowing you to save pertinent information for future reference and easily manage your content by deleting what's no longer needed. Experience the power of quick and efficient news retrieval with our intuitive search feature – simply enter a keyword in the search bar, and you're ready to dive into a world of information. Empower yourself with the convenience of staying informed, effortlessly delivered at your fingertips. (Find the apps source code from my git repository below).
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/70524242/193815043-77ee4187-7b5a-40a3-9f7d-51a3af94910a.png" width="200">
