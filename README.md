@@ -51,7 +51,7 @@ A comprehensive cryptocurrency app, which provides a real-time information on ov
   # Roboust App
   ### Technologies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. Target users-Ghana.
-Worked on Registering and Authenticating users using Firebase as a backend.(Find the apps source code from my git repository below)
+Worked on the Authentication feature of App using Firebase as a backend.(Find the apps source code from my git repository below)
  
  <p align="center">
  <img src="https://user-images.githubusercontent.com/70524242/205431687-27c31d30-4262-423a-8ea5-a68f086f5597.png" width="200">
