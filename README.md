@@ -63,7 +63,7 @@ Worked on the Authentication feature of App using Firebase as a backend.(Find th
 </p>
 
  # QR Scan
- ### Technologies : Kotlin, Android Studio, Xml
+ ### Technologies : Kotlin, Android Studio, Xml Android SDK
  A Functional QR Scanner and Barcode reader that requires little storage space. Scan all common barcode to get additional information including results from popular online services; Amazon, ebay and Google for FREE! Flashlight for reliable Scan in dark environments. Enjoy one of the best QR Scan Code reader apps available for smartphones and tablets running Android.
  <p align="center">
  <img src="https://user-images.githubusercontent.com/70524242/211151906-7593668d-33f7-403e-bd72-7c3434c4cddf.png" width="200">
