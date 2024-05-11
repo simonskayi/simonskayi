@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-# Welcome👋, I'm Simons
+# Hey 👋, I'm Simons
 
 Highly motivated software developer with dedication to Android development.
 Possess strong understanding of core Android concepts and experience building native Android applications using Kotlin. 
@@ -11,7 +11,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
 
 
 # BeQuotes
- ### Technologies : Kotlin, Firebase Realtime Database, XML, Android SDK
+ ### Technologies : Kotlin, XML, Android SDK, Firebase Realtime Database
  Discover the power of inspiration with BeQuote, a dynamic Quotes Application for Android, leveraging the Firebase Realtime Database. Immerse yourself in a curated collection of quotes by renowned personalities spanning encouraging messages positive life lessons, and profound words of wisdom. Share these pearls of inspiration with your friends and family, fostering moments of reflection and motivation. BeQuote is meticulously designed to uplift and ignite the spirit, offering a reservoir of carefully chosen quotes to inspire and enrich your journey. Elevate your daily conversations with the wisdom encapsulated in our app, and let the positive vibes flow. (Find the app's source code from my git repository below) 
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/199437588-a6b591bb-cf25-495e-a8fb-fded2e28c80d.png" width="200">
@@ -20,7 +20,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
   </p>
 
 # All News Aplication
-### Technologies: MVVM, Room Database, Android SDK , Kotlin, XML, Jetpack libraries, Retrofit Library, Paging3
+### Technologies: Kotlin, XML, Android SDK, Kotlin coroutine, Retrofit Library, REST APIs, Paging3, Room Database, MVVM
 Stay ahead of the curve with our cutting-edge News Application, meticulously crafted to keep you abreast of the latest international and breaking news. Seamlessly navigate through news articles, allowing you to save pertinent information for future reference and easily manage your content by deleting what's no longer needed. Experience the power of quick and efficient news retrieval with our intuitive search feature – simply enter a keyword in the search bar, and you're ready to dive into a world of information. Empower yourself with the convenience of staying informed, effortlessly delivered at your fingertips. (Find the app's source code from my git repository below).
 
 <p align="center">
@@ -31,7 +31,7 @@ Stay ahead of the curve with our cutting-edge News Application, meticulously cra
 </p>
 
 # Note Down Application
-### Technologies : Room Database, Android SDK, Kotlin, Xml
+### Technologies : Kotlin , XML, Android SDK, Room Database, Kotlin Coroutine  
 Capture moments seamlessly with our Note Taking App – perfect for workshops, meetings, and special programs. Utilizing the Android Room Database, effortlessly save and organize your notes. Perform all essential operations - create, read, update, and delete with ease. Streamline your note-taking experience and stay organized effortlessly! (Find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
@@ -40,7 +40,7 @@ Capture moments seamlessly with our Note Taking App – perfect for workshops, m
 </p>
 
 # Cripper 
-### Technologies : Retrofit, OkHttp, Android SDK, Kotlin, Jetpack Compose, Dagger-Hilt, JSON
+### Technologies : Kotlin, Android SDK, Jetpack Compose, Dagger, REST APIs
 A comprehensive cryptocurrency app, which provides a real-time information on over 1000 cryptocurrencies by leveraging the power of Kotlin for robust and concise code. Explore a wide range of coins and tokens, from popular staples like Bitcoin and Ethereum to emerging gems. Built with Kotlin for enhanced performance, stability, and maintainability (Find the apps source code from my git repository below).
 <p align="center">
   <img src="https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1" width="200">
@@ -49,7 +49,7 @@ A comprehensive cryptocurrency app, which provides a real-time information on ov
 </p>
   
   # Roboust App
-  ### Technologies : Kotlin,Firebase Authentication, MVVM , XML, DataStore, Hilt-DI
+  ### Technologies : Kotlin, XML, Firebase Authentication, MVVM, Dagger Hilt
  This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. Target users-Ghana.
 Worked on the Authentication feature of App using Firebase as a backend.(Find the apps source code from my git repository below)
  
@@ -63,7 +63,7 @@ Worked on the Authentication feature of App using Firebase as a backend.(Find th
 </p>
 
  # QR Scan
- ### Technologies : Kotlin, Android Studio, Xml Android SDK
+ ### Technologies : Kotlin, XML, Android SDK, Android Studio
  A Functional QR Scanner and Barcode reader that requires little storage space. Scan all common barcode to get additional information including results from popular online services; Amazon, ebay and Google for FREE! Flashlight for reliable Scan in dark environments. Enjoy one of the best QR Scan Code reader apps available for smartphones and tablets running Android.
  <p align="center">
  <img src="https://user-images.githubusercontent.com/70524242/211151906-7593668d-33f7-403e-bd72-7c3434c4cddf.png" width="200">
@@ -72,7 +72,7 @@ Worked on the Authentication feature of App using Firebase as a backend.(Find th
  </p>
 
 # My Calculator
-### Technolgies :  Android SDK , Kotlin, Xml
+### Technolgies : Kotlin, XML , Android SDK
 This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business. This is one of my school projects; it earned me a lot of marks. (find the apps source code from my git repository below).
 <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
