@@ -78,7 +78,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
 </p>
 
-## Best Regards!
+## Best Regards 👍!
 
 
    LICENCE
