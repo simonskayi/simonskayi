@@ -11,7 +11,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
 <a href="mailto:arhinsimons@gmail.com"><img src="https://img.shields.io/badge/Email-Simons-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/simons-arhin-434a5b21a" target="_blank"><img src="https://img.shields.io/badge/linkedin-Simons-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/simonskayi" target="_blank"><img src="https://img.shields.io/badge/instagram-@simonskayi-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-# BeQuotes
+# BeQuote
  ### Technologies : Kotlin, XML, Android SDK, Firebase Realtime Database
  Discover the power of inspiration with BeQuote, a dynamic Quotes Application for Android, leveraging the Firebase Realtime Database. Immerse yourself in a curated collection of quotes by renowned personalities spanning encouraging messages positive life lessons, and profound words of wisdom. Share these pearls of inspiration with your friends and family, fostering moments of reflection and motivation. BeQuote is meticulously designed to uplift and ignite the spirit, offering a reservoir of carefully chosen quotes to inspire and enrich your journey. Elevate your daily conversations with the wisdom encapsulated in our app, and let the positive vibes flow. (Find the app's source code from my git repository below) 
   <p align="center">
