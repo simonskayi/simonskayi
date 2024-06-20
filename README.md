@@ -42,7 +42,7 @@ Capture moments seamlessly with our Note Taking App – perfect for workshops, m
 
 # Cripper 
 ### Technologies : Kotlin, Android SDK, Jetpack Compose, Dagger, REST APIs
-A comprehensive cryptocurrency app, which provides a real-time information on over 1000 cryptocurrencies by leveraging the power of Kotlin for robust and concise code. Explore a wide range of coins and tokens, from popular staples like Bitcoin and Ethereum to emerging gems. Built with Kotlin for enhanced performance, stability, and maintainability (Find the apps source code from my git repository below).
+A comprehensive cryptocurrency app, which provides a real-time information on over 1000 cryptocurrencies by leveraging the power of Kotlin for robust and concise code. Explore a wide range of coins and tokens, from popular staples like Bitcoin and Ethereum to emerging gems. Built with Kotlin for enhanced performance, stability, and maintainability. (Find the apps source code from my git repository below).
 <p align="center">
   <img src="https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1" width="200">
         <img src="https://github.com/simonskayi/simonskayi/assets/70524242/d68c02d0-8974-4f23-ac94-4265c9362029.png" width="200">
@@ -85,7 +85,7 @@ This is a simple, yet a powerful calculator designed for a day to day calculatio
    LICENCE
 -----------------------------------
 
- Copyright 2024 Simons Arhin
+ --- Copyright 2024 Simons Arhin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
