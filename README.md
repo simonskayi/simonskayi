@@ -13,7 +13,7 @@ Eager to expand my knowledge and contribute to a collaborative team dedicated to
 
 # BeQuote
  ### Technologies : Kotlin, XML, Android SDK, Firebase Realtime Database
- Discover the power of inspiration with BeQuote, a dynamic Quotes Application for Android, leveraging the Firebase Realtime Database. Immerse yourself in a curated collection of quotes by renowned personalities spanning encouraging messages positive life lessons, and profound words of wisdom. Share these pearls of inspiration with your friends and family, fostering moments of reflection and motivation. The App is meticulously designed to uplift and ignite the spirit, offering a reservoir of carefully chosen quotes to inspire and enrich your journey. Elevate your daily conversations with the wisdom encapsulated in our app, and let the positive vibes flow. (Find the source code from my git repository below) 
+ Discover the power of inspiration with BeQuote, a dynamic quotes application for Android, leveraging the Firebase Realtime Database. Immerse yourself in a curated collection of quotes by renowned personalities spanning encouraging messages positive life lessons, and profound words of wisdom. Share these pearls of inspiration with your friends and family, fostering moments of reflection and motivation. Elevate your daily conversations with the wisdom encapsulated in our app, and let the positive vibes flow. (Find the source code from my git repository below) 
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/199437588-a6b591bb-cf25-495e-a8fb-fded2e28c80d.png" width="200">
   <img src="https://user-images.githubusercontent.com/70524242/199437785-d62b88ac-81c4-42c2-be33-3b9c7f11d202.png" width="200">
@@ -33,7 +33,7 @@ Stay ahead of the curve with our cutting-edge News Application, meticulously cra
 
 # Note Down Application
 ### Technologies : Kotlin , XML, Android SDK, Room Database, Kotlin Coroutine  
-Capture moments seamlessly with our Note Taking App – perfect for workshops, meetings, and special programs. Utilizing the Android Room Database, effortlessly save and organize your notes. Perform all essential operations - create, read, update, and delete with ease. Streamline your note-taking experience and stay organized effortlessly! (Find the apps source code from my git repository below)
+Capture moments seamlessly with our Note Taking App – perfect for workshops, meetings, and special programs. Utilizing the Android Room Database, effortlessly save and organize your notes. Streamline your note-taking experience and stay organized effortlessly! (Find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
         <img src="https://user-images.githubusercontent.com/70524242/172494082-af45e5bc-722e-4754-8780-51ed129654aa.png" width="200">
@@ -49,10 +49,9 @@ A comprehensive cryptocurrency app, which provides a real-time information on ov
         <img src="https://github.com/simonskayi/simonskayi/assets/70524242/4f3299cd-84de-4519-a2e9-63ab73a5662f.png" width="200">
 </p>
   
-  # Roboust App
+  # Robust App
   ### Technologies : Kotlin, XML, Firebase Authentication, MVVM, Dagger Hilt
- This application is still in development. It is an appointment booking application for hiring a certified electrical engineers from Roboust Electrical Solution. Users would be able to book for a home service with the company directly from their mobile. This application will make it easier to find and hire a certified electrical engineers for your job. Target users-Ghana.
-Worked on the Authentication feature of App using Firebase as a backend.(Find the apps source code from my git repository below)
+ This app demonstrates how to implement secure user authentication in your Android application using Firebase Authentication, Kotlin for development, XML for UI layout, and Hilt for dependency injection
  
  <p align="center">
  <img src="https://user-images.githubusercontent.com/70524242/205431687-27c31d30-4262-423a-8ea5-a68f086f5597.png" width="200">
@@ -74,7 +73,7 @@ Worked on the Authentication feature of App using Firebase as a backend.(Find th
 
 # My Calculator
 ### Technolgies : Kotlin, XML , Android SDK
-This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business. This is one of my school projects; it earned me a lot of marks. (find the apps source code from my git repository below).
+This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business.
 <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
 </p>
