@@ -71,9 +71,9 @@ A comprehensive cryptocurrency app, which provides detailed  information on cryp
   <img src="https://user-images.githubusercontent.com/70524242/211151943-91ee2285-9529-459f-be9d-5417a4bc3b19.png" width="200">
  </p>
 
-# My Calculator
+# Shop Cal
 ### Technolgies : Kotlin, XML , Android SDK
-This is a simple, yet a powerful calculator designed for a day to day calculation. A user-friendly app for grade school pupils and small business owners(shopkeepers) for running their business.
+is a user-friendly mobile application designed specifically for small business owners (shopkeepers) to simplify their daily calculations and manage their finances effectively. It's built with a focus on being lightweight and requiring minimal memory space, making it perfect for devices with limited storage
 <p align="center">
      <img src="https://user-images.githubusercontent.com/70524242/172560302-096c40da-273b-4bf7-9dcd-f6e0dad71721.png" width="200">
 </p>
