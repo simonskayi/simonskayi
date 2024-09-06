@@ -41,7 +41,7 @@ Capture moments seamlessly with our Note Taking App – perfect for workshops, m
 </p>
 
 # Cripper 
-### Technologies : Kotlin, Android SDK, Jetpack Compose, Dagger, REST APIs
+### Technologies : Kotlin, Android SDK, Jetpack Compose, Dagger, Retrofit Library, REST APIs
 A comprehensive cryptocurrency app, which provides detailed  information on cryptocurrencies by leveraging the power of Kotlin for robust and concise code. Explore a wide range of coins and tokens, from popular staples like Bitcoin and Ethereum to emerging gems. Built with Kotlin for enhanced performance, stability, and maintainability. (Find the apps source code from my git repository below).
 <p align="center">
   <img src="https://github.com/simonskayi/simonskayi/assets/70524242/7c0c7b9b-049a-427c-8995-7542cae2d2f1" width="200">
