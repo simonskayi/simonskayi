@@ -3,7 +3,7 @@
 
 # Hallo 👋, I'm Simons
 Highly motivated software developer with dedication to Mobile Application Development.
-Possess strong understanding of core Android concepts and experience building native Android applications using Kotlin. 
+Possess strong understanding of core mobile development concepts and experience building native Android applications using Kotlin. 
 Eager to expand my knowledge and contribute to a collaborative team dedicated to delivering exceptional user experience.
 
 #### Below, you'll find projects I've completed that showcase my skills and general background in software development.
