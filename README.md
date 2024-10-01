@@ -32,7 +32,7 @@ Stay ahead of the curve with our cutting-edge News Application, meticulously cra
 </p>
 
 # Note Down Application
-### Technologies : Kotlin , XML, Android SDK, Room Database, Kotlin Coroutine  
+### Technologies : Kotlin , XML, Android SDK, Room Database, Coroutine  
 Capture moments seamlessly with our Note Taking App – perfect for workshops, meetings, and special programs. Utilizing the Android Room Database, effortlessly save and organize your notes. Streamline your note-taking experience and stay organized effortlessly! (Find the apps source code from my git repository below)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70524242/172493055-3441b6ce-16a8-497c-93d1-4d09b1a5cd0b.png" width="200">
