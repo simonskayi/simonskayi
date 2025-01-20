@@ -1,7 +1,7 @@
 
 <p><img src="https://github.com/simonskayi/simonskayi/assets/70524242/f28b5981-905a-4daa-a2e4-452f41f38281" height="280" width="2080"></p>
 
-# Hey 👋, I'm Simons.
+# Hey 👋, I'm Simons
 Highly motivated software developer with dedication to Mobile Application Development.
 Possess strong understanding of core mobile development concepts and experience building native Android applications using Kotlin. 
 Eager to expand my knowledge and contribute to a collaborative team dedicated to delivering exceptional user experience.
